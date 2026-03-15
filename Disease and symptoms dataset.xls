@@ -1,0 +1,11 @@
+diseases,itching,skin rash,cough,shortness of breath,anxiety and nervousness,insomnia
+Fungal infection,1,1,0,0,0,0
+Acne,0,1,0,0,0,0
+Psoriasis,1,1,0,0,0,0
+Eczema,1,1,0,0,0,0
+Asthma,0,0,1,1,0,0
+Bronchitis,0,0,1,1,0,0
+Anxiety,0,0,0,1,1,1
+Depression,0,0,0,0,0,1
+Common Cold,0,0,1,0,0,0
+Insomnia,0,0,0,0,1,1
